@@ -1,0 +1,7 @@
+Helpful Reference!
+
+-Python Data Science Handbook 
+	Link to entire book online for free
+	All example code under notebooks in GitHub
+	great if you know some basic python
+	https://github.com/jakevdp/PythonDataScienceHandbook
