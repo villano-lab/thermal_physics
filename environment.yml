@@ -1,0 +1,23 @@
+name: galactic-spin 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.9
+  - numpy
+  - scipy
+  - matplotlib
+  - mpld3
+  - h5py
+  - sympy
+  - ipympl
+  - ipylab
+  - ipywidgets==7.6.5
+  - ffmpeg
+  - pip
+  - ipykernel
+  - pip:
+    - lmfit
+    - astroquery
+    - dataPython
+  - jupyterlab
